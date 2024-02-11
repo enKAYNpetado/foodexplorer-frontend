@@ -33,6 +33,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Layout
  
-![image](https://github.com/enKAYNpetado/foodexplorer-frontend/assets/136331604/872a3c3a-7eff-49d6-9ebf-95f4a7698f30)
+![image](https://github.com/enKAYNpetado/foodexplorer-frontend/assets/136331604/3df6a309-5af7-4884-bd1f-4df91a691867)
 
-![image](https://github.com/enKAYNpetado/foodexplorer-frontend/assets/136331604/94e1f083-1d8d-4361-b21b-20980e8426ac)
+![image](https://github.com/enKAYNpetado/foodexplorer-frontend/assets/136331604/92e701cc-1ecd-4049-8a5d-a47f365a795c)
+
+![image](https://github.com/enKAYNpetado/foodexplorer-frontend/assets/136331604/09312c0d-9ee9-4d5b-9530-268141fb2f03)
+
